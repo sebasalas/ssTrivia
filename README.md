@@ -1,7 +1,7 @@
 
-# talaTrivia
+# Trivia
 
-**talaTrivia** es una aplicación de trivia desarrollada con Django y Django REST Framework. Permite a los usuarios participar en trivias, responder preguntas y ver rankings basados en sus puntuaciones. La aplicación utiliza Docker para facilitar su despliegue y gestión de dependencias.
+**Trivia** es una aplicación de trivia desarrollada con Django y Django REST Framework. Permite a los usuarios participar en trivias, responder preguntas y ver rankings basados en sus puntuaciones. La aplicación utiliza Docker para facilitar su despliegue y gestión de dependencias.
 
 ## **Características**
 
